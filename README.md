@@ -11,9 +11,6 @@ Check out the live website [here](https://portfolio-sarvesh-silk.vercel.app/).
 - [About](#about)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## About
